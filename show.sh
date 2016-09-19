@@ -1,2 +1,2 @@
 #!/bin/sh
-cat submodule-demo-child/readme.md
+cat child/readme.md
